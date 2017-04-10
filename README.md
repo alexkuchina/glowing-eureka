@@ -1,1 +1,2 @@
 # glowing-eureka
+<!DOCTYPE html>
